@@ -3,10 +3,14 @@
 I'm a computer science student of National Chiao Tung University, interested in Web, Computer Graphic, Game Dev and illustration.
 
 ### Skills
+
 - Web Tech: Html / CSS / Javascript / Typescript / Jest / React.js / Next.js / Tailwindcss / Figma
 - Other: Linux / Python / C++ / Unity
 
-### [Blog](https://kaijhsu.github.io)
+### [Blog](https://kaijhsu.github.io
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **kaijhsu/kaijhsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
