@@ -10,6 +10,8 @@ I'm a computer science student of National Chiao Tung University, interested in 
 ### [Blog](https://kaijhsu.github.io
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello World](https://kaijhsu.github.io/blog/Hello-World/)
+- [Welcome to Jekyll!](https://kaijhsu.github.io/blog/welcome-to-jekyll/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
