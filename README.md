@@ -7,7 +7,7 @@ I'm a computer science student of National Chiao Tung University, interested in 
 - Web Tech: Html / CSS / Javascript / Typescript / Jest / React.js / Next.js / Tailwindcss / Figma
 - Other: Linux / Python / C++ / Unity
 
-### [Blog](https://kaijhsu.github.io
+### [Blog](https://kaijhsu.github.io)
 
 <!-- BLOG-POST-LIST:START -->
 - [Hello World](https://kaijhsu.github.io/blog/Hello-World/)
