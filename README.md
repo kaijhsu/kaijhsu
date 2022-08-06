@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a computer science student of National Chiao Tung University, interested in Web, Computer Graphic, Game Dev and illustration.
+- 🎓 I'm studing at National Chiao Tung University, CS Major.
+- 🚀 I'm learning Web, Unity, Graphics.
+- ✨ Fun Fact: I like 🎮🖌🎨💪 / 🐱🐧🐳 / 🌧⭐🍉XD.
 
 ### Skills
 
