@@ -6,7 +6,7 @@
 
 ### Skills
 
-- Web Tech: Html / CSS / Javascript / Typescript / Jest / React.js / Next.js / Tailwindcss / Figma
+- Web Tech: Html / CSS / Javascript / Typescript / Jest / React.js / Next.js
 - Other: Linux / Python / C++ / Unity
 
 ### [Blog](https://kaijhsu.github.io)
