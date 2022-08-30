@@ -12,9 +12,9 @@
 ### [Blog](https://kaijhsu.github.io)
 
 <!-- BLOG-POST-LIST:START -->
-- [《荒原狼》性格統一性的謊言](https://kaijhsu.github.io/book/DerSteppenWolf/)
+- [Games101 筆記](https://kaijhsu.github.io/cs/Games101/)
+- [《荒原狼》人格統一的幻想](https://kaijhsu.github.io/book/DerSteppenWolf/)
 - [Hello World](https://kaijhsu.github.io/blog/Hello-World/)
-- [Welcome to Jekyll!](https://kaijhsu.github.io/blog/welcome-to-jekyll/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
