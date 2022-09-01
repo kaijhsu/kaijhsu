@@ -13,7 +13,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Games101 筆記](https://kaijhsu.github.io/cs/Games101/)
-- [《荒原狼》人格統一的幻想](https://kaijhsu.github.io/book/DerSteppenWolf/)
+- [《荒野之狼》人格統一的幻想](https://kaijhsu.github.io/book/DerSteppenWolf/)
 - [Hello World](https://kaijhsu.github.io/blog/Hello-World/)
 <!-- BLOG-POST-LIST:END -->
 
