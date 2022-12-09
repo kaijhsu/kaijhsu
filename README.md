@@ -1,13 +1,8 @@
 ### Hi there 👋
 
 - 🎓 I'm studing at National Chiao Tung University, CS Major.
-- 🚀 I'm learning Web, Unity, Graphics.
 - ✨ Fun Fact: I like 🎮🖌🎨💪 / 🐱🐧🐳 / 🌧⭐🍉XD.
 
-### Skills
-
-- Web Tech: Html / CSS / Javascript / Typescript / Jest / React.js / Next.js
-- Other: Linux / Python / C++ / Unity
 
 ### [Blog](https://kaijhsu.github.io)
 
