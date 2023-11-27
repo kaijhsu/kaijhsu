@@ -1,10 +1,11 @@
+<!--
 ### Hi there 👋
 
 - 🎓 I'm studing at National Chiao Tung University, CS Major.
 - ✨ Fun Fact: I like 🎮🖌🎨💪 / 🐱🐧🐳 / 🌧⭐🍉XD.
 
 
-<!--
+
 **kaijhsu/kaijhsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
